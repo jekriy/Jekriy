@@ -197,3 +197,4 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 ---
 
 ![](assets/Bottom_down.svg)
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
